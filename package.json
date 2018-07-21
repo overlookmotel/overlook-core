@@ -14,6 +14,9 @@
     "url": "https://github.com/overlookmotel/overlook-core/issues"
   },
   "dependencies": {
+    "lodash": "^4.17.10",
+    "pluggi": "^2.0.0",
+    "router-tree": "^1.0.5"
   },
   "devDependencies": {
     "chai": "^4.1.2",
