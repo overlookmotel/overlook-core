@@ -16,7 +16,7 @@
   "dependencies": {
     "co-class": "^1.0.1",
     "lodash": "^4.17.10",
-    "pluggi": "^2.0.0",
+    "pluggi": "^1.0.0",
     "router-tree": "^1.2.0",
     "tapable": "^1.0.0"
   },
